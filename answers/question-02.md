@@ -1,0 +1,2 @@
+# What is git add vs git commit?
+Git add is used to stage changes in your working directory, preparing them to be included in the next commit. Git commit, on the other hand, is used to save those staged changes to the repository's history.
