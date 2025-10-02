@@ -1,0 +1,2 @@
+# What does cat do?
+The `cat` command in Unix and Unix-like operating systems is used to concatenate and display the contents of files. It reads files sequentially, writing their contents to standard output (usually the terminal).
