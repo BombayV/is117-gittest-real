@@ -1,0 +1,2 @@
+# What is a Git branch?
+A Git branch is a pointer to a commit in a Git repository. It allows you to create separate lines of development within the same repository, enabling you to work on different features, bug fixes, or experiments without affecting the main codebase.
