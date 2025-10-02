@@ -1,0 +1,2 @@
+# What does git status do?
+Git status displays the state of the working directory and the staging area. It shows which changes have been staged, which haven't, and which files aren't being tracked by Git.
