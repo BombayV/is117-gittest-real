@@ -1,0 +1,2 @@
+# What does git merge do?
+Git merge is a command used in Git to combine the changes from one branch into another. When you run git merge, it takes the changes from the specified branch and integrates them into the current branch you are working on.
