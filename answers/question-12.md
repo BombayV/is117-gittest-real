@@ -1,0 +1,3 @@
+# What is cp vs mv?
+- `cp` is a command used to copy files and directories from one location to another. It creates a duplicate of the specified file or directory at the destination while keeping the original intact.
+- `mv` is a command used to move or rename files and directories. It transfers the specified file or directory to a new location or changes its name, effectively removing it from its original location
