@@ -1,0 +1,2 @@
+# What are absolute vs relative paths?
+An absolute path is a complete path from the root directory to a specific file or folder, while a relative path is a path that is relative to the current working directory.
